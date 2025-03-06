@@ -79,7 +79,8 @@ CREATE SCHEMA raw_data;
 
 ---
 ### Team:
+Vineeth Rayadurgam
 Shashidhar Babu P V D
-Vineeth Rayadurgam 
+ 
 
 DATA 226 - Spring 2025
